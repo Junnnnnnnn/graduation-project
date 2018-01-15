@@ -1,0 +1,45 @@
+body{
+	color: #444;
+	font-family: "微软雅黑";
+	font-size: 13px;
+	background-color: #fff;
+}
+.line {
+  display: inline-block;
+  margin: 13px 25px;
+  width: 1px;
+  height: 24px;
+  background-color: #ebebeb;
+}
+.mynavbar{
+	padding-top: 10px;
+	height: 70px;
+	background-color: #fff;
+}
+.main{
+	position:relative;
+	padding-top: 110px;
+	background-color: #f1f2f3;
+}
+
+.mainsilder{
+	height: 442px;
+	border-bottom: 1px solid #ccc;
+	border-top: 1px solid #ccc;
+
+}
+.mainschedule{
+	border: 1px solid #ccc;
+	background-color: #fff;
+	height: 290px;
+}
+.maininfo{
+	width: 456px;
+	background-color: #fff;
+	height: 130px;
+	float: left;
+	margin-top: 20px;
+	margin-left: 16px;
+	position: relative;
+	border: 1px solid #ccc;
+}
