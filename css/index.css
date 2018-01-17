@@ -43,3 +43,17 @@ body{
 	position: relative;
 	border: 1px solid #ccc;
 }
+.mainscheduleinner{
+	width: 396px;
+	height: 270px;
+	margin-top: 10px;
+	margin-left: 30px;
+	font-size: 16px;
+
+}
+.fengeline{
+	width: 1139px;
+	height: 1px;
+	background-color: #ccc;
+	margin-top: 40px;
+}
